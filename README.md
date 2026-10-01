@@ -1,2 +1,1 @@
-# engr1340-PedroRepo1
-Class assignment 4 repository 1
+Pedro Soares Moreira - ENGR1340-014.
